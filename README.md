@@ -1,2 +1,2 @@
 # IteradorMatematico
-Desarrollo en Desktop.
+Desarrollo en Desktop..
